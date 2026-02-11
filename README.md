@@ -14,7 +14,6 @@ The Bank Transfer Management System is a console-based Java application that per
 Main → Service → DAO → Database
 ```
 
----
 
 **Project Architecture**
 
