@@ -99,6 +99,9 @@ Uses:
 * Store transaction history
 * Auto-generate transaction ID using sequence
 
+  ![WhatsApp Image 2026-02-11 at 9 44 32 PM](https://github.com/user-attachments/assets/d1c96a7a-a8be-46ea-b46f-c982aac734a4)
+
+
   <img width="568" height="225" alt="image" src="https://github.com/user-attachments/assets/9df8f266-6e33-4d53-b4e4-cd1e72123de4" />
 
 
