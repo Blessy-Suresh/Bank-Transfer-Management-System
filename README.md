@@ -7,7 +7,7 @@ The Bank Transfer Management System is a console-based Java application that per
 * Transferring money between accounts
 * Updating balances
 * Recording transactions in database
-* 
+
  **layered architecture**:
 
 ```
